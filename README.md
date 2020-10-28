@@ -11,5 +11,6 @@ As seguintes tarefas foram realizadas:
 *   Utilização da biblioteca *Pytorch* para criar um modelo de aprendizado supervisionado;
 *   Análise do resultado proporcionado pelo modelo.
 
+Para mais detalhes, consulte o notebook *HeartDisease*. 
 
 Obs: esse projeto é consistente com o aprendizado adquirido até o dia 31 / 09 / 2020. Após essa data novos conhecimentos serão adquiridos e algumas decisões de projeto provavelmente mudariam. Sinta-se a vontade para baixar o arquivo e modificar da forma que desejar. 
